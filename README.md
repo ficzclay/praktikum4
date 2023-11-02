@@ -1,5 +1,5 @@
 ## Struktur Kondisi
-- Pada Latihan 1, meminta kita untuk membuat program sederhana dengan input 2 buah bilangan, kemudian
+- Pada Latihan 1, kita membuat program sederhana dengan input 2 buah bilangan, kemudian
 tentukan bilangan terbesar dari kedua bilangan tersebut
 menggunakan statement if.
 
@@ -7,7 +7,40 @@ menggunakan statement if.
 2. Kode kemudian membandingkan kedua bilangan menggunakan pernyataan if. Jika bilangan1 lebih besar dari bilangan2, maka bilangan_terbesar diatur menjadi bilangan1, jika tidak, maka diatur menjadi bilangan2.
 Terakhir, kode mencetak bilangan terbesar ke konsole / terminal.
 3. Hasil akhirnya adalah kode ini akan menampilkan bilangan terbesar dari dua bilangan yang dimasukkan oleh pengguna.
-![Screenshot_20231102_220249](https://github.com/ficzclay/praktikum4/assets/148204078/79557fdd-3425-4de5-9e7b-e9fe1bd62a01)
+![Screenshot_20231102_222910](https://github.com/ficzclay/praktikum4/assets/148204078/2d5bd01e-3e34-4539-8250-256af1bd307c)
+
+
+- Lalu pada latihan 2, kita membuat program untuk mengurutkan data berdasarkan input sejumlah
+data (minimal 3 variable input atau lebih), kemudian tampilkan
+hasilnya secara berurutan mulai dari data terkecil.
+
+1. Program ini meminta pengguna untuk memasukkan jumlah data yang ingin diurutkan.
+2. Membuat list kosong yang akan digunakan untuk menyimpan data.
+3. Mengisi list tersebut dengan bilangan-bilangan yang dimasukkan oleh pengguna menggunakan perulangan for.
+4. Mengurutkan data dalam list dari yang terkecil ke yang terbesar menggunakan metode sort().
+5. Terakhir, kode mencetak hasil pengurutan, tetapi tanpa angka di belakang titik desimal, sehingga hanya menampilkan bilangan bulat.
+6. Hasil akhirnya adalah kode ini akan menerima input dari pengguna, mengurutkan data yang dimasukkan, dan kemudian mencetak hasil pengurutan tanpa desimal.
+![Screenshot_20231102_223357](https://github.com/ficzclay/praktikum4/assets/148204078/8b57b119-4e54-45ec-b8b2-0d46f133fb65)
+
+## Perulangan
+- Pada latihan 1, kita membuat program dengan perulangan bertingkat (nested) for yang
+menghasilkan output sebagai berikut:
+![Screenshot_20231102_221441](https://github.com/ficzclay/praktikum4/assets/148204078/d235ee7e-0c84-4704-bde3-e61e693fc389)
+1. Loop pertama dengan for i in range(10) digunakan untuk mengatur baris. Ini akan mengulang sebanyak 10 kali (0 hingga 9).
+2. Loop kedua dengan for j in range(10) digunakan untuk mengatur kolom di dalam setiap baris. Ini juga akan mengulang sebanyak 10 kali (0 hingga 9).
+3. Dalam setiap iterasi loop kedua, kita mencetak hasil penjumlahan dari i + j dengan menggunakan print(i + j, end="\t"). end="\t" digunakan untuk memberikan jarak horizontal antara angka-angka yang dicetak.
+4. Setelah selesai mencetak 10 angka dalam satu baris (karena loop kedua), kita mencetak baris baru menggunakan print() sehingga kita bisa melanjutkan ke baris berikutnya dalam loop pertama.
+5. Hasil akhirnya adalah tabel 10x10 dengan angka yang dihasilkan dari penjumlahan i dan j pada setiap posisi sel tabel.
+![Screenshot_20231102_224842](https://github.com/ficzclay/praktikum4/assets/148204078/dfcaea86-cffe-4faa-a4f9-11758b3b3f4b)
+
+- Pada latihan 2, kita membuat program
+  Tampilkan n bilangan acak yang lebih kecil dari 0.5.
+  nilai n diisi pada saat runtime
+  anda bisa menggunakan kombinasi while dan for untuk
+  menyelesaikannya
+
+
+
 
 ## Langkah-langkah pengerjaan latihan
 
