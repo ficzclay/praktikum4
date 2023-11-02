@@ -46,7 +46,7 @@ Jika kedua kondisi di atas tidak terpenuhi, maka bilangan terbesar adalah bilang
 4. program akan mencetak bilangan terbesar ke terminal / konsole.
 ![Screenshot_20231102_232636](https://github.com/ficzclay/praktikum4/assets/148204078/6939e0bd-c1ba-459c-a1a1-71eafadb9539)
 
-- Berikut flowchart-nya
+- Berikut flowchart-nya<br>
   ![Screenshot_20231103_004139](https://github.com/ficzclay/praktikum4/assets/148204078/66d0de9c-26da-4a73-9282-dc7c8dac54c3)
 
 ## Tugas Praktikum 3
