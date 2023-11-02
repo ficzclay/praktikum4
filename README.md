@@ -46,6 +46,44 @@ Jika kedua kondisi di atas tidak terpenuhi, maka bilangan terbesar adalah bilang
 4. program akan mencetak bilangan terbesar ke terminal / konsole.
 ![Screenshot_20231102_232636](https://github.com/ficzclay/praktikum4/assets/148204078/6939e0bd-c1ba-459c-a1a1-71eafadb9539)
 
+- Berikut flowchart-nya
+  ![Screenshot_20231103_004139](https://github.com/ficzclay/praktikum4/assets/148204078/66d0de9c-26da-4a73-9282-dc7c8dac54c3)
+
+## Tugas Praktikum 3
+
+### Latihan 1
+- Tampilkan n bilangan acak yang lebih kecil dari 0.5.<br>
+nilai n diisi pada saat runtime<br>
+anda bisa menggunakan kombinasi while dan for untuk menyelesaikannya<br>
+gunakan fungsi random() yang dapat diimport terlebih dahulu<br>
+
+1. Pengguna diminta untuk memasukkan nilai n, yang merupakan jumlah bilangan acak yang akan dihasilkan dan dicetak.
+2. Program menggunakan perulangan while untuk menghasilkan bilangan acak. Dalam setiap iterasi perulangan:<br>
+random_number diisi dengan nilai bilangan acak yang dihasilkan oleh random.random(). Fungsi ini menghasilkan bilangan acak dalam rentang dari 0 hingga kurang dari 1.<br>
+Kemudian, program memeriksa apakah random_number kurang dari 0.5. Jika benar, maka random_number akan dicetak.<br>
+Variabel count digunakan untuk menghitung berapa kali bilangan acak telah dicetak.
+3. Proses ini diulangi hingga jumlah bilangan acak yang lebih kecil dari 0.5 yang telah dicetak mencapai n, sesuai dengan jumlah yang dimasukkan oleh pengguna.
+![Screenshot_20231103_012324](https://github.com/ficzclay/praktikum4/assets/148204078/5f0811df-9cbd-41d1-bc3f-5cb8d641d770)
+
+### Latihan 2
+- Buat program untuk menampilkan bilangan terbesar dari n buah data yang diinputkan. Masukkan angka 0 untuk berhenti.
+1. Program ini meminta pengguna untuk memasukkan sejumlah bilangan. Selama proses tersebut, program akan menyimpan bilangan terbesar yang telah dimasukkan. Ketika pengguna memasukkan "0" atau memutuskan untuk berhenti, program akan mencetak bilangan terbesar yang telah dimasukkan, jika ada. Tujuannya adalah untuk menemukan bilangan terbesar di antara bilangan yang dimasukkan oleh pengguna.
+![Screenshot_20231103_013634](https://github.com/ficzclay/praktikum4/assets/148204078/a6a6f640-8f44-491f-bafe-b3abd3c45ea4)
+
+### program.py
+- Buat program sederhana dengan perulangan: program1.py
+Seorang pengusaha menginvestasikan uangnya untuk memulai usahanya dengan
+modal awal 100 juta, pada bulan pertama dan kedua belum mendapatkan laba. pada
+bulan ketiga baru mulai mendapatkan laba sebesar 1% dan pada bulan ke 5,
+pendapatan meningkat 5%, selanjutnya pada bulan ke 8 mengalami penurunan
+keuntungan sebesar 2%, sehingga laba menjadi 3%. Hitung total keuntungan selama 8
+bulan berjalan usahanya.
+1. Program ini menghitung total keuntungan selama 8 bulan dengan modal awal 100 juta rupiah. Kode tersebut:
+Menginisialisasi modal awal dan total keuntungan.<br>
+Menggunakan perulangan untuk menghitung keuntungan pada bulan tertentu, yaitu pada bulan ke-3, ke-5, dan ke-8.<br>
+Menambahkan keuntungan tersebut ke total keuntungan.<br>
+Menampilkan total keuntungan setelah 8 bulan berjalan usahanya.
+![Screenshot_20231103_020712](https://github.com/ficzclay/praktikum4/assets/148204078/46b51996-5836-4987-901e-ec2793b32862)
 
 
 
@@ -72,7 +110,7 @@ cd bahasa_pemrograman
 ```
 
 ```
-mkdir lab2py
+mkdir praktikum4
 ```
 
 3. Jika sudah, jalankan command (command git init digunakan untuk menginisialisasi repositori git baru)
@@ -88,7 +126,7 @@ git init
 disini akan menggunakan terminal
 
 ```
-echo “# lab2py” >> README.md
+echo “# praktikum4” >> README.md
 ```
 
 2. Untuk menambahkan file yang baru saja dibuat, gunakan command
@@ -148,11 +186,8 @@ git clone [url]
 
 
 ## Berikut bukti pengerjaan-nya
+![Screenshot_20231102_215038](https://github.com/ficzclay/praktikum4/assets/148204078/bf5eec4d-b879-45f0-81fb-25db6905b5d8)
 
-![Screenshot_20231024_155450](https://github.com/ficzclay/lab2py/assets/148204078/99ccdc9e-feb3-4867-bbfc-d0d201410940)
+![Screenshot_20231102_215047](https://github.com/ficzclay/praktikum4/assets/148204078/03737632-1d06-49a6-9fd8-9e22a4e06a68)
 
-![Screenshot_20231024_172645](https://github.com/ficzclay/lab2py/assets/148204078/a9f404cd-4c90-48f8-aeba-c108396134b4)
 
-![Screenshot_20231024_180602](https://github.com/ficzclay/lab2py/assets/148204078/b060c068-26eb-4bd5-ba6d-8d42ad26c94f)
-
-![Screenshot_20231024_181618](https://github.com/ficzclay/lab2py/assets/148204078/45c1645b-132d-4e78-8047-47599366872b)
