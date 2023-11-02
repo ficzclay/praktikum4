@@ -7,6 +7,7 @@ menggunakan statement if.
 2. Kode kemudian membandingkan kedua bilangan menggunakan pernyataan if. Jika bilangan1 lebih besar dari bilangan2, maka bilangan_terbesar diatur menjadi bilangan1, jika tidak, maka diatur menjadi bilangan2.
 Terakhir, kode mencetak bilangan terbesar ke konsole / terminal.
 3. Hasil akhirnya adalah kode ini akan menampilkan bilangan terbesar dari dua bilangan yang dimasukkan oleh pengguna.
+![Screenshot_20231102_220249](https://github.com/ficzclay/praktikum4/assets/148204078/79557fdd-3425-4de5-9e7b-e9fe1bd62a01)
 
 ## Langkah-langkah pengerjaan latihan
 
