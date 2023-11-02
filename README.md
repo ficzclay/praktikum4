@@ -150,7 +150,7 @@ git commit -m "first commit"
 4. Isi nama repository-nya,
 
 ```
-   contoh: lab2py
+   contoh: praktikum4
 ```
 
 5. lalu klik tombol Create repository
