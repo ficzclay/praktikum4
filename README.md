@@ -33,7 +33,7 @@ menghasilkan output sebagai berikut:
 5. Hasil akhirnya adalah tabel 10x10 dengan angka yang dihasilkan dari penjumlahan i dan j pada setiap posisi sel tabel.
 ![Screenshot_20231102_224842](https://github.com/ficzclay/praktikum4/assets/148204078/dfcaea86-cffe-4faa-a4f9-11758b3b3f4b)
 
-- Pada latihan 2, kita membuat program
+- Pada latihan 2, kita membuat program<br>
   ```Tampilkan n bilangan acak yang lebih kecil dari 0.5.```<br>
   ```nilai n diisi pada saat runtime```<br>
   ```anda bisa menggunakan kombinasi while dan for untuk menyelesaikannya```
