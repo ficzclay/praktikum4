@@ -34,10 +34,9 @@ menghasilkan output sebagai berikut:
 ![Screenshot_20231102_224842](https://github.com/ficzclay/praktikum4/assets/148204078/dfcaea86-cffe-4faa-a4f9-11758b3b3f4b)
 
 - Pada latihan 2, kita membuat program
-  Tampilkan n bilangan acak yang lebih kecil dari 0.5.
-  nilai n diisi pada saat runtime
-  anda bisa menggunakan kombinasi while dan for untuk
-  menyelesaikannya
+  ```Tampilkan n bilangan acak yang lebih kecil dari 0.5.```
+  ```nilai n diisi pada saat runtime```
+  ```anda bisa menggunakan kombinasi while dan for untuk menyelesaikannya```
 
 
 
